@@ -304,8 +304,8 @@ echo "✅ Fichiers du site web créés dans le répertoire 'website/'"
 
 1. **Aller dans l'onglet "Autorisations"**
 
-2. **Modifier la politique de bucket** :
-   - Cliquez sur "Politique de bucket" → "Modifier"
+2. **Modifier la Stratégie de compartiment** :
+   - Cliquez sur "Stratégie de compartiment" → "Modifier"
    - Collez la politique suivante (remplacez `VOTRE-NOM-DE-BUCKET`) :
 
 ```json
